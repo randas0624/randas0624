@@ -1,4 +1,4 @@
-### -💬On the stocks💬-
+### -On the stocks-
 
 <!--
 **randas0624/randas0624** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
